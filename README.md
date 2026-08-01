@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📄 CSV to JSON Converter
+# 🧩 CSV to JSON Converter
 
 ### Use CSV to JSON Converter free on ToolAdda — quick, accurate, and browser-based.
 
